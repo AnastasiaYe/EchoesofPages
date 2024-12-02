@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TUTORIAL_GUITAR
+  - TUTORIAL_MUSIC_SHEET
+  - TUTORIAL_WINDOW
+  - TUTORIAL_DAIRY
+  - LOGO
+  - DIARY_PAGE_0
+  - DIARY_PAGE_1
+  - TUTORIAL_POSTER
+  - VIRTUAL_CAMERA
+  - LEVEL1_POLAROID
+  - LEVEL1_BANDAIDS
+  - LEVEL1_AWARD
+  - LEVEL1_FIREPLACE
+  - LEVEL1_MUSICBOX
+  - LEVEL1_MARK
+  - LEVEL1_GUITAR
+  - LEVEL2_LOVE_LETTER
+  - LEVEL2_RADIO
+  - LEVEL2_BLANKET
+  - LEVEL2_GUITAR
+  - LEVEL2_BOY
+  - LEVEL2_LOVE_LETTER_TORN
+  - LEVEL2_TREE
+  - LEVEL2_METEOR
+  - LEVEL3_DRUM
+  - LEVEL3_RECORD
+  - LEVEL3_INVITATION
+  - LEVEL3_PHONE
+  - LEVEL3_FALLEN_MIC
+  - LEVEL3_CALENDAR
+  - LEVEL3_WINDOW
+  - LEVEL3_CRYSTALL_BALL
+  - LEVEL3_METEOR_ORNAMENT
+  - LEVEL3_PHOTO
+  - LEVEL3_GUITAR
+  - TUTORIAL_MUSIC_SHEET2
+  - LEVEL1_GIFTTAG
+  - LEVEL2_TORN_LETTER_1
+  - LEVEL2_TORN_LETTER_2
+  - LEVEL2_MUSIC_SCORE
+  - LEVEL3_EXIT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1Background
+    uniqueID: 640710723
+    locked: 0
+  - name: 2Overlay
+    uniqueID: 2472060059
+    locked: 0
+  - name: Item
+    uniqueID: 254858803
+    locked: 0
+  - name: Player
+    uniqueID: 1911630549
+    locked: 0
+  - name: 3Foreground
+    uniqueID: 3543124463
+    locked: 0
+  - name: UI
+    uniqueID: 2809001035
+    locked: 0
